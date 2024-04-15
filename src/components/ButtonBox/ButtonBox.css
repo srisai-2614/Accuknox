@@ -1,0 +1,53 @@
+.Section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin: 2.6em;
+}
+.Inputs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-right: 2em;
+    border: solid;
+    height: 15vh;
+    width: 45%;
+}
+.TextField{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15vh;
+    width: 45%;
+    border: solid;
+}
+button{
+    cursor: pointer;
+}
+.Text{
+    font-size: small;
+}
+div.Inputs > *{
+    margin: 0.7em;
+    width: 100%;
+}
+@media (max-width:600px) {
+    .Section{
+        width: 100%;
+    }
+    .Inputs{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 2em;
+        border: solid;
+        height: 15vh;
+        width: 45%;
+    }
+    div.Inputs > *{
+        margin: 0.1em;
+        width: 100%;
+    }
+}
