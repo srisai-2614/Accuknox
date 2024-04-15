@@ -1,7 +1,7 @@
 {
   "name": "editor",
   "version": "0.1.0",
-  "homepage": "https://<Username>.github.io/<Repository-name>",
+  "homepage": "https://srisai-2614.github.io/Accuknox",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
