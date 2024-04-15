@@ -41,13 +41,18 @@ div.Inputs > *{
         display: flex;
         align-items: center;
         justify-content: center;
-        flex-direction:row;
+        flex-direction:column;
         border: solid;
-        height: 15vh;
+        margin: 0.9em;
+        height: 20vh;
         width: 45%;
+    }
+    input{
+        border: none;
+        offset: none;
     }
     div.Inputs > *{
         margin: 0.1em;
-        width: 100%;
+        width: 90%;
     }
 }
