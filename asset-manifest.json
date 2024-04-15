@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Accuknox/static/css/main.d3c200c5.css",
+    "main.js": "/Accuknox/static/js/main.7d342e81.js",
+    "static/js/453.ee02a017.chunk.js": "/Accuknox/static/js/453.ee02a017.chunk.js",
+    "index.html": "/Accuknox/index.html",
+    "main.d3c200c5.css.map": "/Accuknox/static/css/main.d3c200c5.css.map",
+    "main.7d342e81.js.map": "/Accuknox/static/js/main.7d342e81.js.map",
+    "453.ee02a017.chunk.js.map": "/Accuknox/static/js/453.ee02a017.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c200c5.css",
+    "static/js/main.7d342e81.js"
+  ]
+}
